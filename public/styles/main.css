@@ -1,0 +1,63 @@
+:root {
+    --color-background: #F0F0F7;
+    --color-primary-lighter: #65eec5e1;
+    --color-back-box: rgb(181, 253, 190);
+    --color-primary-light: #09d163;
+    --color-primary: #3ee67e;
+    --color-primary-dark: #764dd6;
+    --color-primary-darker: #6842c2;
+    --color-secondary: #c76efa;
+    --color-secondary-dark: #8306cc;
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #764dd6e0;
+    --color-text-title: #32264D;
+    --color-text-complement: #6d5b9e;
+    --color-text-base: #2d2b31;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #F8F8FC;
+    --color-button-text: #fffffff8;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+    --color-small-info: #C1BCCC;
+    
+    /*standard font-size: 16px , 100% , 1rem */
+    font-size: 60%; 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100vh;}
+
+
+body{
+    background-color: var(--color-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body,
+input,
+button,
+textarea{
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base)
+}
+
+#container{
+    width: 90vw;
+    max-width: 700px;
+}
+
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%; /* 1rem it´s equal to 10 px */ 
+    }
+}
+    
