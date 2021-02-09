@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./public/images/logo.svg' right = '20px'/>
+  <img src='./public/images/logo.svg' position = 'absolute' right = '900px'/>
   <hr/>
 
 <a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
