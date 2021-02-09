@@ -4,7 +4,7 @@
 
   <hr/>
 
-<a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
+<a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href='#tools'> TOOLS  </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href='#layout'>LAYOUT </a>
 
