@@ -4,7 +4,7 @@
 
   <hr/>
 
-<a href='#about'> ABOUT </a> |&nbsp;&nbsp;&nbsp;
+<a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;
 <a href='#tools'> TOOLS  </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href='#layout'>LAYOUT </a>
 
@@ -29,19 +29,19 @@ And besides that, there is also the option for orphanages include their own inst
 
 <br/>
 
-### Scripting 
+### &rarr; Scripting 
 
 - [x] JavaScript.
 
-### DataBase
+### &rarr; DataBase
 
 - [x] SQLite.
 
-### Style Sheet
+### &rarr; Style Sheet
 
 - [x] CSS.
 
-### Template Engine 
+### &rarr; Template Engine 
 
 - [x] Handlebars
 
