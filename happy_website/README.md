@@ -1,7 +1,6 @@
 <div align='center'>
-
+   
   <img src='./public/images/logo.svg'/>
-
   <hr/>
 
 <a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
