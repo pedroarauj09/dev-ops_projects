@@ -1,6 +1,5 @@
 <div align='center'>
-   
-  <img src='./public/images/logo.svg'/>
+  <img src='./public/images/logo.svg' right = '30%'/>
   <hr/>
 
 <a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
