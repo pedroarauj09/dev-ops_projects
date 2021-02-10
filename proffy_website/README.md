@@ -1,5 +1,53 @@
-# Private tutor website
+<div align='center'>
+  <img src='./public/images/logo.svg'/>
+  <hr/>
 
-## Project desenvolved by Rocketseat on workshop called "Next Level Week"
+<a href='#about'> ABOUT </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href='#tools'> TOOLS  </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href='#layout'>LAYOUT </a>
 
-This website offers teachers for anyone who wants to take private lessons, and availability of professors for students dial with them some class. Furthermore, there is the option for teachers register themselves , and their time availability.   
+</div>
+
+<hr/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# <p id='about'> 🔎 About</p>
+
+##
+This is a project desenvolved by Rocketseat on workshop called "Next Level Week"
+
+Proffy is an online study platform that helps people find teachers online.
+
+<br/>
+
+# <p id='tools'>⚙ Tools used: </p>
+
+<br/>
+
+### &rarr; Scripting 
+
+- [x] JavaScript.
+
+### &rarr; DataBase
+
+- [x] SQLite.
+
+### &rarr; Style Sheet
+
+- [x] CSS.
+
+<br/>
+<br/>
+
+# <p id='layout'>🖌 Layout </p>
+
+Layout in figma &rarr; [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+
+<br/>
+
+
+   
