@@ -17,16 +17,14 @@
 
 # <p id='about'> 🔎 About</p>
 
-##
 This is a project desenvolved by Rocketseat on workshop called "Next Level Week"
 
 Proffy is an online study platform that helps people find teachers online.
 
 <br/>
+<br/>
 
 # <p id='tools'>⚙ Tools used: </p>
-
-<br/>
 
 ### &rarr; Scripting 
 
